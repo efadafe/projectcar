@@ -1,0 +1,1 @@
+../../../CarProject/CarProject.uproject  /Game/VehicleBP/Maps/VehicleExampleMap -Messaging -SessionId=117B298043410E4B628909BBF7789334 -SessionOwner=Łukasz -SessionName='Play On Device' -iterative

@@ -1,0 +1,5 @@
+CarProject\AssetRegistry.bin
+CarProject\Content\VehicleBP\Maps\VehicleExampleMap.umap
+Engine\GlobalShaderCache-GLSL_ES2.bin
+Manifest_NonUFSFiles.txt
+Manifest_UFSFiles.txt
